@@ -5,7 +5,7 @@ Question 1
 Question 1
      SampleTest.jpg
      
-     ![Screenshot (4)](https://github.com/user-attachments/assets/06f3b96e-db47-4549-b82b-a6e750652df2)
+![Screenshot (4)](https://github.com/user-attachments/assets/06f3b96e-db47-4549-b82b-a6e750652df2)
 
 Question 2
      compile.jpg
